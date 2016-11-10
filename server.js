@@ -4,7 +4,7 @@ var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
 var routes = require('./app/routes/index.js');
-var api = require('./app/api/myapp_map.js');
+
 
 // enables CORS for implementing cross-domain requests
 app.use(function(req, res, next) {
@@ -24,10 +24,10 @@ app.use(bodyParser.json());
 app.use('/public', express.static(process.cwd() + '/public'));
 
 //sets port
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 3000;
 
-routes(app);
-api(app);
+routes(app); 
+
 
 app.listen(port, function() {
     console.log('Node.js listening on port ' + port);
