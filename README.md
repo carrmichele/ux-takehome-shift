@@ -1,5 +1,6 @@
 # Shift Takehome UX Full-stack Project Featuring Google Places API
 ![@carrmichele](http://image-store.slidesharecdn.com/06b4c956-530e-4927-ad6f-4614112c6b7f-large.png)
+![@carrmichele](http://image-store.slidesharecdn.com/d406b338-d2c5-4a73-84f1-62547586b78d-large.png)
 
 Created by Caroline Gordon (carrmichele)
 
