@@ -1,14 +1,25 @@
 {
   "name": "takehome-ux-shift",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carrmichele/ux-takehome-shift"
+  },
+  "keywords": [
+    "API",
+    "Carrmichele",
+    "Timestamp"
+  ],
+  "author": "caroline gordon",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "cool-ascii-faces": "1.3.4",
+    "express": "^4.14.0",
+    "moment": "^2.15.1"
   }
 }

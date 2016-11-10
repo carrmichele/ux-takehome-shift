@@ -1,0 +1,103 @@
+/* Styling Contents 
+Responsive styling with CSS3 & Bootstrap
+
+  1. Body
+  2. NavBar & Logo
+  3. Main Container
+    a. Heading
+    b. Input Box
+    c. Submit Button */
+
+
+/* 1. Body */
+
+body {
+  background:url(https://static.pexels.com/photos/2224/road-people-street-smartphone.jpg)no-repeat center center fixed; background-size:cover;}
+
+
+/* 2. NavBar & Logo */
+
+.navbar {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 38px;
+}
+
+/* 3. Main Container */
+
+.main {
+  text-align: center;
+}
+
+.box {
+  margin-top: 40px;
+  margin-bottom: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+/* 3.a. Heading */
+
+h3 {
+  font-size: 12vmin !important;
+}
+
+/* 4. Google Maps Styling */
+
+#map {
+  height: 100%;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.controls {
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  height: 32px;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#pac-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 300px;
+}
+
+#pac-input:focus {
+  border-color: #4d90fe;
+}
+
+.pac-container {
+  font-family: Roboto;
+}
+
+#type-selector {
+  color: #fff;
+  background-color: #4d90fe;
+  padding: 5px 11px 0px 11px;
+}
+
+#type-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+#target {
+  width: 345px;
+}
