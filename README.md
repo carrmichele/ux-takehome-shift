@@ -12,7 +12,9 @@ Build a web page with an input box that uses the node server to deliver a
 filesystem autocomplete experience similar to what you get when typing a query into Google.com.
 
 -I used Google Places API for the autocomplete functionality.
+
 -In the future I would add Shift's API to allow Google Maps to display Shift cars for sale near a location that a user searches.
+
 -This project was completed as part of the takehome project for Shift.
 
 ## Technologies Used:
