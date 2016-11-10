@@ -6,4 +6,11 @@ Created by Caroline Gordon (carrmichele)
 
 [Github](https://github.com/carrmichele) | [FreeCodeCamp](http://www.freecodecamp.com/carrmichele) | [CodePen](http://codepen.io/caromichel/) | [LinkedIn](https://www.linkedin.com/in/carolinemgordon) | [E-Mail](mailto:karoline.gdn@gmail.com)
 
+## Your Mission
+
+Build a web page with an input box that uses the node server to deliver a
+filesystem autocomplete experience similar to what you get when typing a query into Google.com.
+
+-I used Google Places API for the autocomplete functionality
+
 ## Live Version: https://shift-takehome-ux.herokuapp.com/
