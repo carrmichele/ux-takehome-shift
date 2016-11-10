@@ -12,5 +12,15 @@ Build a web page with an input box that uses the node server to deliver a
 filesystem autocomplete experience similar to what you get when typing a query into Google.com.
 
 -I used Google Places API for the autocomplete functionality
+-This project was completed as part of the takehome project for Shift
 
-## Live Version: https://shift-takehome-ux.herokuapp.com/
+## Technologies Used:
+
+1. Node.js
+2. Express
+3. Moment
+4. Google Places API
+5. Image from Unsplash.com
+6. Minified Twitter Bootstrap JS and CSS
+
+## Live Version: https://shift-ux-takehome.herokuapp.com/
